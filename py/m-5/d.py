@@ -16,3 +16,4 @@ if(n>=1 & n<=20):
     row = input().split(" ")
     aux = powerset(row)
     print(str(aux))
+    
